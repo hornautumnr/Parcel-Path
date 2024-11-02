@@ -35,7 +35,7 @@ maintain consistency across sessions.
 Technologies and Skills
 --------------------------
 - **Programming Language:** Python
-- **Core Libraries:** `csv', 'datetime`
+- **Core Libraries:** `csv`, `datetime`
 - **Data Structures:** Hash table, 2D arrays, and lists
 - **Algorithmic Skills:** Route optimization and dynamic data management
 - **File I/O and Data Persistence:** Imports and exports data using CSV for persistent storage.
